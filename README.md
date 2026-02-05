@@ -1,4 +1,5 @@
 MiniBlog-Platform:
+
 MiniBlog Platform is a lightweight blogging application built using Node.js, Express, and EJS.
 It focuses on core blogging concepts like CRUD operations, RESTful routing, and server-side rendering,
 without using a database. Data is managed in-memory using arrays, making it perfect for learning
